@@ -7,7 +7,3 @@ if a:
 # my_new_code
 
 print("Hello")
-print("Hello")
-print("Hello")
-print("Hello")
-
