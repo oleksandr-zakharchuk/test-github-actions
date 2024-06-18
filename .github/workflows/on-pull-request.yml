@@ -15,8 +15,6 @@ permissions:
 jobs:
   build:
 
-    name: basic-python-test
-
     runs-on: ubuntu-latest
 
     steps:
