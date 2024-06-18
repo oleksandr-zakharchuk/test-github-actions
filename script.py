@@ -2,7 +2,7 @@
 
 a = True
 if a:
-    print("Hello")
+print("Hello")
 
 # my_new_code
 
