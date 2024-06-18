@@ -7,3 +7,4 @@ print("Hello")
 my_new_code
 
 print("Hello")
+print("Hello")
